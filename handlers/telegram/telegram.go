@@ -206,6 +206,7 @@ func (h *handler) SendMsg(ctx context.Context, msg courier.Msg) (courier.MsgStat
 		form := url.Values{
 			"chat_id": []string{msg.URN().Path()},
 			"text":    []string{msg.Text()},
+			"parse_mode": "html",
 		}
 
 		externalID, log, err := h.sendMsgPart(msg, authToken, "sendMessage", form, replies)
