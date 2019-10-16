@@ -1,4 +1,4 @@
-module github.com/nyaruka/courier
+module github.com/ramotlubis/courier
 
 require (
 	github.com/antchfx/xmlquery v0.0.0-20181223105952-355641961c92
