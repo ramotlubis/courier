@@ -13,14 +13,18 @@ require (
 	github.com/gorilla/schema v1.0.2
 	github.com/jmoiron/sqlx v0.0.0-20180614180643-0dae4fefe7c0
 	github.com/lib/pq v1.0.0
-//	github.com/nyaruka/courier v1.2.160
+	github.com/nyaruka/courier v1.2.160
+	//	github.com/nyaruka/courier v1.2.160
 	github.com/nyaruka/ezconf v0.2.1
 	github.com/nyaruka/gocommon v0.2.0
 	github.com/nyaruka/librato v0.0.0-20180827155909-cacc769357b8
 	github.com/nyaruka/null v1.1.1
+	github.com/nyaruka/phonenumbers v1.0.50 // indirect
 	github.com/pkg/errors v0.8.0
 	github.com/sirupsen/logrus v1.0.4
 	github.com/stretchr/testify v1.3.0
+	golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550 // indirect
+	golang.org/x/sys v0.0.0-20191010194322-b09406accb47 // indirect
 	gopkg.in/go-playground/validator.v9 v9.11.0
 	gopkg.in/h2non/filetype.v1 v1.0.5
 )

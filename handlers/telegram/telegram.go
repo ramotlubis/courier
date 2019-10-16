@@ -12,9 +12,9 @@ import (
 
 	"github.com/buger/jsonparser"
 	"github.com/go-errors/errors"
-	"github.com/nyaruka/courier"
-	"github.com/nyaruka/courier/handlers"
-	"github.com/nyaruka/courier/utils"
+	"github.com/ramotlubis/courier"
+	"github.com/ramotlubis/courier/handlers"
+	"github.com/ramotlubis/courier/utils"
 	"github.com/nyaruka/gocommon/urns"
 )
 
