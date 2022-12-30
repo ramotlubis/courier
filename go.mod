@@ -2,7 +2,7 @@ module github.com/ramotlubis/courier
 
 require (
 	github.com/antchfx/xmlquery v0.0.0-20181223105952-355641961c92
-	github.com/aws/aws-sdk-go v1.13.3
+	github.com/aws/aws-sdk-go v1.33.0
 	github.com/buger/jsonparser v0.0.0-20180318095312-2cac668e8456
 	github.com/dghubble/oauth1 v0.4.0
 	github.com/evalphobia/logrus_sentry v0.4.6
@@ -20,9 +20,9 @@ require (
 	github.com/nyaruka/librato v0.0.0-20180827155909-cacc769357b8
 	github.com/nyaruka/null v1.1.1
 	github.com/nyaruka/phonenumbers v1.0.50 // indirect
-	github.com/pkg/errors v0.8.0
+	github.com/pkg/errors v0.9.1
 	github.com/sirupsen/logrus v1.0.4
-	github.com/stretchr/testify v1.3.0
+	github.com/stretchr/testify v1.5.1
 	golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550 // indirect
 	golang.org/x/sys v0.0.0-20191010194322-b09406accb47 // indirect
 	gopkg.in/go-playground/validator.v9 v9.11.0
