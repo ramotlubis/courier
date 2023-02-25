@@ -23,8 +23,7 @@ require (
 	github.com/pkg/errors v0.8.0
 	github.com/sirupsen/logrus v1.0.4
 	github.com/stretchr/testify v1.3.0
-	golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550 // indirect
-	golang.org/x/sys v0.0.0-20191010194322-b09406accb47 // indirect
+	golang.org/x/crypto v0.1.0 // indirect
 	gopkg.in/go-playground/validator.v9 v9.11.0
 	gopkg.in/h2non/filetype.v1 v1.0.5
 )
