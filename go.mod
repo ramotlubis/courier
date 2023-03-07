@@ -1,7 +1,7 @@
 module github.com/ramotlubis/courier
 
 require (
-	github.com/antchfx/xmlquery v0.0.0-20181223105952-355641961c92
+	github.com/antchfx/xmlquery v1.3.1
 	github.com/aws/aws-sdk-go v1.13.3
 	github.com/buger/jsonparser v0.0.0-20180318095312-2cac668e8456
 	github.com/dghubble/oauth1 v0.4.0
@@ -23,8 +23,6 @@ require (
 	github.com/pkg/errors v0.8.0
 	github.com/sirupsen/logrus v1.0.4
 	github.com/stretchr/testify v1.3.0
-	golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550 // indirect
-	golang.org/x/sys v0.0.0-20191010194322-b09406accb47 // indirect
 	gopkg.in/go-playground/validator.v9 v9.11.0
 	gopkg.in/h2non/filetype.v1 v1.0.5
 )
